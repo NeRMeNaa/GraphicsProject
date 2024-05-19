@@ -1,1 +1,1 @@
-Graphics Project for Collage
+Graphics Project for Collage with Blender application
